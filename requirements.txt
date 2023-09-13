@@ -3,3 +3,4 @@ prometheus_client==0.17.1
 python_json_logger==2.0.7
 watchdog==3.0.0
 requests==2.30.0
+beautifulsoup4==4.12.2
